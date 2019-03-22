@@ -1,0 +1,11 @@
+.posting {
+  font-size: 120%;
+  border: 1px solid #000;
+  padding: 20px;
+}
+
+tbody { 
+    border-bottom: 1px solid;
+    border-bottom-color: #dcdcdc;
+}
+

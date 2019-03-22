@@ -1,0 +1,63 @@
+<div class="html-element-wrapper">
+  <b>Nachricht:</b>
+  <br />
+  <div class="posting">{{text}}</div>
+  <br />
+</div>
+
+<cml:radios label="Bezieht sich die Äußerung (im Ganzen oder im Teil) auf eine Einzelperson?" validates="required" name="einzelperson" gold="true" aggregation="agg">
+  <cml:instructions>Bezieht sich die Äußerung auf eine lebende Person, die namentlich oder durch einen Verweis erwähnt wird? Der Verweis muss die Person 
+    <u>nicht zwangsläufig</u> namentlich identifizierbar machen. Bei Verweisen mit "du/ihr/sie" oder Bezeichnungen wie "der Penner" usw., ebenfalls "Ja" auswählen.
+  </cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Bezieht sich die Äußerung (im Ganzen oder im Teil) auf eine abgrenzbare (a) oder funktionelle (b) Gruppe?" validates="required" name="gruppe" gold="true" aggregation="agg">
+  <cml:instructions>(a) Gruppen wie "die Moslems", "die Flüchtlinge" oder "alle Frauen" sind 
+    <u>nicht</u> abgrenzbar/zahlenmäßig überschaubar, (b) Gruppen, die eine rechtlich anerkannte gesellschaftliche Funktion erfüllen und einen einheitlichen Willen bilden können, z.B.: 'die Bundesregierung' oder Parteien
+  </cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Beinhaltet die Nachricht eine negative Äußerung?" validates="required" name="ehrverletzung" only-if="einzelperson:[Ja]||gruppe:[Ja]" gold="true" aggregation="agg">
+  <cml:instructions>Bei Äußerungen, die das gesellschaftliche Ansehen der Person/Gruppe mindern 
+    <u>könnten</u>, ist "Ja" auszuwählen
+  </cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Handelt es sich bei der Äußerung um eine reine Tatsachenbehauptung?" validates="required" name="tatsachenbehauptung" only-if="ehrverletzung:[Ja]" gold="true" aggregation="agg">
+  <cml:instructions>Reine Tatsachenbehauptungen beschränken sich auf Äußerungen, die als wahr oder unwahr überprüft werde können. Äußerungen mit wertendem Anteil (Meinung) sind keine Tatsachenbehauptungen mehr.</cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+
+<cml:radios label="Ist die Äußerung ein bewusster Tabubruch und ausschließlich auf Herabsetzung gerichtet (ohne Sachbeitrag)?" validates="required" name="formalbeleidigung" only-if="tatsachenbehauptung:[Nein]" gold="true" aggregation="agg">
+  <cml:instructions>Wenn auch nur ein geringer Sachbeitrag vorhanden ist, hier "Nein" auswählen</cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Spricht die Äußerung ein Thema von allgemeiner öffentlichen Bedeutung an?" validates="required" gold="true" name="allgemeinesoeffentlichesthema" only-if="formalbeleidigung:[Nein]" aggregation="agg">
+  <cml:instructions>Themen allgemeiner öffentlichen Bedeutung sind zum Beispiel Themen, die Teil politischer Diskussion sind, wie etwa die "Flüchtlingskrise", nicht: private Auseinandersetzungen.</cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Steht die Herabsetzung im Vordergrund der Äußerung?" validates="required" name="schmaehkritik" only-if="allgemeinesoeffentlichesthema:[Ja]||allgemeinesoeffentlichesthema:[Nein]" gold="true" aggregation="agg">
+  <cml:instructions>Wenn nicht mehr die Sacheauseinandersetzung im Vordergrund steht, sondern die Äußerung hauptsächlich dazu dient, die Person oder Gruppe herabzusetzen, ist "Ja" auszuwählen</cml:instructions>
+  <cml:radio label="Ja" value="Ja"></cml:radio>
+  <cml:radio label="Nein" value="Nein"></cml:radio>
+</cml:radios>
+
+
+
+
+
+
+
+

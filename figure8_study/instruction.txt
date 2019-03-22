@@ -1,0 +1,260 @@
+<h1>Einleitung</h1>
+
+<p>Wir zeigen Ihnen in dieser Studie Aussagen, die von Menschen in sozialen Medien erstellt wurden. Sie sollen hier durch die Beantwortung mehrerer Ja/Nein Fragen bewerten, ob die Äußerung unter ein Beleidigungsdelikt fällt.</p>
+<hr>
+
+<p><strong>(1. Frage)&nbsp;</strong><strong>Einzelperson?</strong> Bezieht sich die Äußerung auf eine lebende &nbsp;Person, die namentlich oder durch einen Verweis erwähnt wird?&nbsp;</p>
+
+<ul>
+	<li>Es ist an diesem Punkt egal, ob die Äußerung freundlich, neutral oder feindselig ist</li>
+	<li>Auswahl "Ja"
+
+		<ul>
+			<li>Wenn auf eine Einzelperson Bezug genommen wird</li>
+			<li>Wenn auf mehrere Einzelpersonen Bezug genommen wird&nbsp;</li>
+			<li>Verweis mit "du / ihr / sie" auf Einzelperson</li>
+			<li>Bei indirekten Verweisen auf eine Einzelperson (z.B. "der Penner")</li>
+		</ul>
+	</li>
+	<li>Auswahl "Nein"
+
+		<ul>
+			<li>Wenn kein Bezug auf eine Einzelperson vorhanden ist</li>
+		</ul>
+	</li>
+</ul>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 85%; margin-right: calc(10%); margin-left: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Die Kanzlerin ist eine Volksverräterin.</td>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Ja - Äußerung bezieht sich auf Angela Merkel</td>
+		</tr>
+		<tr>
+			<td>@Müller @Maischberger @Schulz @SPD &nbsp; Du Hurensohn, wirklich!</td>
+			<td>Ja - "Du" bezieht sich auf einen der verlinkten @Nutzer, auch wenn unklar ist welcher genau</td>
+		</tr>
+		<tr>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Alles Volksverräter!</td>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Nein - kein Personenbezug vorhanden</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(2. Frage) &nbsp;Gruppe?</strong>&nbsp;</p>
+
+<p>(a) Abgrenzbare, zahlenmäßig überschaubare Gruppen&nbsp;</p>
+
+<ul>
+	<li>Auswahl "Ja":
+		<br>z.B. bei:
+
+		<ul>
+			<li>Die Polizei eines bestimmten Einsatzes</li>
+			<li>Die Richter des Amtsgerichtes Rüdesheim</li>
+			<li>Die Schüler der Klasse 10b des Gymnasiums XY</li>
+		</ul>
+	</li>
+	<li>Auswahl "Nein": &nbsp;
+		<br>z.B. bei Gruppen, die entstehen durch:
+
+		<ul>
+			<li>Geschlecht ("alle Frauen")&nbsp;</li>
+			<li>Religion ("alle Muslime")</li>
+			<li>Hautfarbe ("alle Weißen")</li>
+			<li>oder 'die Flüchtlinge'</li>
+		</ul>
+	</li>
+</ul>
+
+<p>ODER</p>
+
+<p>&nbsp;(b) Gruppen, die eine rechtlich anerkannte gesellschaftliche Funktion erfüllen <strong>und</strong> einen einheitlichen Willen bilden können</p>
+
+<ul>
+	<li>Auswahl "Ja":
+		<br>z.B. bei:
+
+		<ul>
+			<li>die 'Bundesregierung' / der 'Bundestag'</li>
+			<li>politische Parteien (die 'SPD')</li>
+			<li>bestimmte Medien ('Tagesschau', das 'ZDF')</li>
+		</ul>
+	</li>
+	<li>Auswahl "Nein":
+		<br>z.B. bei:
+
+		<ul>
+			<li>die 'Polizei' als solche</li>
+			<li>die 'Presse'</li>
+		</ul>
+	</li>
+</ul>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 91%; margin-left: calc(4%); margin-right: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Die Polizei sind Lutscher, haste bei G20 in Hamburg gesehen</td>
+			<td style="width: 52.3384%; background-color: rgb(241, 224, 214);">Ja - Polizeitruppe die bei G20 in Hamburg im Einsatz war ist abgrenzbar und überschaubar.</td>
+		</tr>
+		<tr>
+			<td style="width: 49.4708%;">Alle Männer sind hormon-getriebe potentielle Vergewaltiger</td>
+			<td style="width: 50.4022%;">Nein - "alle Männer" ist zu allgemein gefasst</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(3. Frage) Negative Äußerung?</strong> Äußerung, die das gesellschaftliche Ansehen mindern könnte</p>
+
+<ul>
+	<li>Kritik</li>
+	<li>Beschimpfungen</li>
+	<li>negative Vergleiche oder Umschreibungen</li>
+	<li>indirekte Unterstellungen oder Vorwürfe</li>
+</ul>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 89%; margin-right: calc(6%); margin-left: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 51.1079%; background-color: rgb(241, 224, 214);">Merkel drückt "Verbundenheit" für Manchester aus &gt;Wie falsch muss man eigentlich sein,wenn man d. Terror Tür u. Tor öffnete</td>
+			<td style="width: 48.7622%; background-color: rgb(241, 224, 214);">Ja - &nbsp;politisch und moralisches Fehlverhalten wird vorgeworfen &nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 51.1079%;">Die Nahles wurde zur SPD-Vorsitzenden gewählt</td>
+			<td style="width: 48.7622%;">Nein - ist eine neutrale Äußerung</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(4. Frage) Tatsachenbehauptung?</strong></p>
+
+<ul>
+	<li>Auswahl "Ja":
+
+		<ul>
+			<li>Wenn die Äußerung sich auf eine Tatsachenbehauptung beschränkt, d.h. als wahr oder unwahr überprüfbar ist
+				<br>(kommt selten vor)</li>
+		</ul>
+	</li>
+	<li>Auswahl "Nein":
+
+		<ul>
+			<li>Bei bloßen 'Meinungsäußerungen', da die nicht als wahr oder unwahr überprüfbar sind</li>
+			<li>Bei Mischungen aus Tatsachenbehauptungen und Meinungsäußerungen</li>
+		</ul>
+	</li>
+</ul>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 89%; margin-right: calc(6%); margin-left: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 48.7622%; background-color: rgb(241, 224, 214);">Ich habe gestern Jürgen Trittin beim Koksdealer im Görli gesehen</td>
+			<td style="width: 48.7622%; background-color: rgb(241, 224, 214);">Ja - kann als wahr oder unwahr überprüft werden und enthält keine darüber hinausgehende Bewertung</td>
+		</tr>
+		<tr>
+			<td>@fr @HeikoMaas Sie sind ein Steuerbetrüger und haben die einzige demokratische Partei Deutschlands AfD,nicht zu beleidigen! Bald sind Sie verschwunden!</td>
+			<td>Nein - Mischäußerung, Tatsachenbehauptung des Steuerbetrugs und Meinung, dass die Person sich nicht zur Afd äußern darf und &nbsp;bald nicht mehr im Amt sein wird</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(5. Frage) Bewusster Tabubruch <u>und</u> ausschließlich auf Herabsetzung gerichtet (ohne Sachbeitrag)?&nbsp;</strong>
+	<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(kommt selten vor, da Sachbeitrag fast immer vorhanden)</p>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 90%; margin-left: calc(5%); margin-right: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 48.7012%;background-color: rgb(241, 224, 214);">Peter die Fettsau, kann man bald schlachten :P</td>
+			<td style="width: 51.1759%;background-color: rgb(241, 224, 214);">Ja - bewusster Tabubruch, der nur auf Herabsetzung ausgerichtet ist &nbsp;ohne Sachbeitrag</td>
+		</tr>
+		<tr>
+			<td style="width: 51.1759%; background-color: rgb(255, 255, 255);">Merkel, die Fotze, macht einfach schlechte Politik.</td>
+			<td style="width: 51.1759%; background-color: rgb(255, 255, 255);">Nein - da noch Sachbeitrag enthalten (Äußerung zur Qualität der Politik durch Merkel) und damit nicht allein auf Herabsetzung gerichtet</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(6. Frage) Thema von allgemeiner öffentlichen Bedeutung?</strong> Dies sind Äußerungen zu politische Diskussionen z.B. "Flüchtlingskrise" oder Äußerungen über Politiker. Nicht: private Auseinandersetzungen&nbsp;</p>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 90%; margin-right: calc(5%); margin-left: calc(5%);">
+	<tbody>
+		<tr>
+			<td style="width: 46.0291%; background-color: rgb(241, 224, 214);">Unter von der Leyen ist die Bundeswehr so pazifistischwie noch nie aufgestellt, alles kaputt gespart lol</td>
+			<td style="width: 46.0291%; background-color: rgb(241, 224, 214);">Ja - Thema von allgemeiner öffentlicher Bedeutung (Einsatzfähigkeit &nbsp;der deutschen Streitkräfte)</td>
+		</tr>
+		<tr>
+			<td>@jorg_kitzmuller Nimmst Du Drogen, oder ist es Alkohol?</td>
+			<td>Nein - private Auseinandersetzung</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<p><strong>(7. Frage) Herabsetzung im Vordergrund?&nbsp;</strong>Wenn nicht mehr die Sachauseinandersetzung im Vordergrund steht, sondern die Äußerung <u>hauptsächlich</u> dazu dient, die Person oder Gruppe herabzusetzen?</p>
+
+<p><strong>Zum Beispiel:</strong></p>
+
+<table style="width: 88%; margin-right: calc(6%); margin-left: calc(6%);">
+	<tbody>
+		<tr>
+			<td style="width: 51.13%;background-color: rgb(241, 224, 214);">😂😂😂 Phantomschmerz (fehlende Eier) und Machtgeilheit zwangen heute erneut den "Bayern-Horsti" ohne Vaseline &nbsp;in den Ar*** der Kanzlerette 😜</td>
+			<td style="width: 48.7526%;background-color: rgb(241, 224, 214);">Ja - Herabsetzung von "Horsti" und der Kanzlerin ("Kanzlerette") steht im Vordergrund, die Kritik der Politik rückt stark in den Hintergrund</td>
+		</tr>
+		<tr>
+			<td style="width: 51.13%;">So sieht Meinungsfreiheit in Deutschland aus, dank dieser Volksverräterin Merkel!! Herzlichen Willkommen in der DDR 2.0!</td>
+			<td style="width: 48.7526%;">Nein - Merkel wird zwar attackiert, aber der Schwerpunkt der Äußerung bezieht sich auf den Zustand der Meinungsfreiheit in Deutschland&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+<hr>
+
+<h1>
+	<br>
+</h1>
+
+
